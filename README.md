@@ -51,7 +51,7 @@ In order to get the data on the storage, perform the following steps in order
 - Step 9: Conclusion
   
 ## Technologies/Libraries Used
-- Python: 3.10.12 (main, Sep 11 2024, 15:47:36) [GCC 11.4.0]
+- Python: 3.10.12
 - NumPy: 1.26.4
 - TensorFlow: 2.17.0
 - Keras: 3.4.1
